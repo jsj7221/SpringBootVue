@@ -1,4 +1,4 @@
-package com.example.demo.front.controller;
+package com.example.demo.front.web;
 
 import org.springframework.boot.web.servlet.error.ErrorController;
 import org.springframework.stereotype.Controller;
